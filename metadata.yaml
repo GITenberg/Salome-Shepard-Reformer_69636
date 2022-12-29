@@ -1,5 +1,8 @@
 _repo: Salome-Shepard-Reformer_69636
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69636-h/images/cover.jpg
 creator:
   author:
     agent_name: Winslow, Helen M. (Helen Maria)
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3079
     wikipedia: https://en.wikipedia.org/wiki/Helen_M._Winslow
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69636#Salome-Shepard-Reformer
 gutenberg_issued: '2022-12-24'
 identifiers:
   gutenberg: '69636'
